@@ -1,29 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=180&section=header&text=Hi%20%F0%9F%91%8B%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E4%B8%BB%E9%A1%B5&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=180&section=header&text=Hi%20%F0%9F%91%8B%20Welcome%20to%20My%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 
-# 🌸 你好，我是 zhangxuejing20041231-lang
+# 🌸 Hi, I'm zhangxuejing20041231-lang
 
-**一个 GitHub 新手，正在从零开始学习和成长 ✨**
+### Aspiring AI Product Manager | Future FDE (Forward Deployed Engineer)
+
+**正在从零成长为一名 AI 从业者 ✨ 记录学习、产品思考与原型实践**
 
 </div>
 
-## 🙋‍♀️ 关于我
+## 🙋‍♀️ 关于我 About Me
 
-- 🌱 我现在正在学习：**GitHub 的使用方法**，慢慢熟悉代码和开源世界
-- 💡 我的目标：把这里一点点经营起来，记录我的学习过程，做出自己的小作品
-- 🌸 我喜欢：粉色、可爱又治愈的东西
-- 💬 有问题欢迎和我交流，我们一起进步呀
+- 🎯 **职业目标**：成为一名 **AI 产品经理**，或 **FDE（前线部署工程师）** —— 既懂用户和业务问题，也能亲手把 AI 方案做出来、落下去
+- 🌱 **我现在正在学习**：AI 产品基础、大模型与 Agent 的能力边界、GitHub 与基础的原型工具
+- 💡 **我关注的问题**：一个 AI 产品为什么好用？用户真正的问题是什么？怎么用最小的原型验证想法，又怎么评估效果好不好？
+- 🌸 **我的风格**：认真、好奇、行动派。喜欢粉色和可爱的东西，但做事想做得专业又扎实
+- 💬 欢迎和我交流 AI 产品、学习方法和新手成长，我们一起进步
 
-## 🎯 我的小目标
+## 🧭 我的成长路线 Roadmap
 
-- [x] 注册 GitHub 账号
-- [x] 做好我的个人主页
-- [ ] 学会创建和管理仓库
-- [ ] 完成我的第一个小项目
-- [ ] 学会用 Git 提交代码
+- [x] 建好 GitHub 主页，开始公开记录成长
+- [ ] **阶段一 · 打基础**：学会 GitHub / Git，坚持每日 AI 学习记录，点亮小绿点
+- [ ] **阶段二 · 练产品眼**：每周拆解 1 个 AI 产品（用户、问题、功能、体验、商业模式）
+- [ ] **阶段三 · 动手做原型**：做 Prompt / Agent 小实验，学会调用 API，做 2-3 个能演示的小 Demo
+- [ ] **阶段四 · 做作品集**：用 FDE 的方式写案例 —— 客户问题 → 方案 → 原型 → 评估 → 复盘
 
-> 一步一步来，不着急。每天进步一点点，就是很棒的事情。
+## 📂 我的仓库 Projects & Notes
+
+| 仓库 | 是什么 |
+| --- | --- |
+| [ai-pm-journey](https://github.com/zhangxuejing20041231-lang/ai-pm-journey) | 我的 AI 成长日记：每日学习、AI 产品拆解、Prompt / Agent 小实验 |
+| 本仓库 | 我的个人主页 |
+
+> 更多作品会慢慢长出来：AI 产品拆解集、一个文档问答小助手、一个 Agent 工作流原型……敬请期待。
+
+## 🛠️ 正在积累的技能 Skills I'm Building
+
+`AI Product Thinking` · `Prompt Design` · `AI Agents` · `Product Teardown` · `Prototyping` · `GitHub` · `Python (Learning)`
 
 ## 📊 我的 GitHub 数据
 
@@ -44,6 +58,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=120&section=footer" />
 
-**谢谢你来看我 🌸 欢迎给我点一个 Follow，一起加油！**
+**谢谢你来看我 🌸 如果你也在学 AI，欢迎 Follow 我，我们一起从新手村出发！**
 
 </div>
