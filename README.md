@@ -1,44 +1,43 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=180&section=header&text=Hi%20%F0%9F%91%8B%20Welcome%20to%20My%20GitHub&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=160&section=header&text=Hi%20%F0%9F%91%8B%20Welcome%20to%20My%20GitHub&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 
-# 🌸 Hi, I'm zhangxuejing20041231-lang
+# Hi, I'm zhangxuejing20041231-lang
 
 ### Aspiring AI Product Manager | Future FDE (Forward Deployed Engineer)
 
-**正在从零成长为一名 AI 从业者 ✨ 记录学习、产品思考与原型实践**
+正在学习成为一名 AI 从业者，这里记录我的学习、产品思考和动手实践。
 
 </div>
 
-## 🙋‍♀️ 关于我 About Me
+## 关于我
 
-- 🎯 **职业目标**：成为一名 **AI 产品经理**，或 **FDE（前线部署工程师）** —— 既懂用户和业务问题，也能亲手把 AI 方案做出来、落下去
-- 🌱 **我现在正在学习**：AI 产品基础、大模型与 Agent 的能力边界、GitHub 与基础的原型工具
-- 💡 **我关注的问题**：一个 AI 产品为什么好用？用户真正的问题是什么？怎么用最小的原型验证想法，又怎么评估效果好不好？
-- 🌸 **我的风格**：认真、好奇、行动派。喜欢粉色和可爱的东西，但做事想做得专业又扎实
-- 💬 欢迎和我交流 AI 产品、学习方法和新手成长，我们一起进步
+- 职业目标是 AI 产品经理或 FDE（Forward Deployed Engineer）：既要能想清楚用户和业务的问题，也要能把方案真正做出来、用起来
+- 目前在学：AI 产品基础、大模型和 Agent 的基本原理、GitHub 的使用，以及做原型会用到的工具
+- 比较关注几个问题：一个 AI 产品到底解决了谁的什么问题、最小的验证方式是什么、上线后怎么判断它有没有用
+- 平时喜欢粉色和可爱的东西，做事希望尽量认真、踏实一点
 
-## 🧭 我的成长路线 Roadmap
+## 成长路线
 
-- [ ] **阶段一 · 打基础**：学会 GitHub / Git，坚持每日 AI 学习记录，点亮小绿点
-- [ ] **阶段二 · 练产品眼**：每周拆解 1 个 AI 产品（用户、问题、功能、体验、商业模式）
-- [ ] **阶段三 · 动手做原型**：做 Prompt / Agent 小实验，学会调用 API，做 2-3 个能演示的小 Demo
-- [ ] **阶段四 · 做作品集**：用 FDE 的方式写案例 —— 客户问题 → 方案 → 原型 → 评估 → 复盘
+- [ ] **阶段一 · 打基础**：熟悉 GitHub 和 Git，养成持续记录学习内容的习惯
+- [ ] **阶段二 · 练产品眼**：每周拆解一个 AI 产品，看它的用户、问题、功能、体验和商业模式
+- [ ] **阶段三 · 动手做原型**：做一些 Prompt 和 Agent 的小实验，学习调用 API，完成两三个可以演示的小作品
+- [ ] **阶段四 · 做作品集**：按 FDE 的思路整理案例，从客户问题出发，写清方案、原型、评估和复盘
 
-## 📂 我的仓库 Projects & Notes
+## 仓库
 
-| 仓库 | 是什么 |
+| 仓库 | 内容 |
 | --- | --- |
-| [ai-pm-journey](https://github.com/zhangxuejing20041231-lang/ai-pm-journey) | 我的 AI 成长日记：每日学习、AI 产品拆解、Prompt / Agent 小实验 |
-| 本仓库 | 我的个人主页 |
+| [ai-pm-journey](https://github.com/zhangxuejing20041231-lang/ai-pm-journey) | 学习记录、AI 产品拆解，以及 Prompt / Agent 实验 |
+| 本仓库 | 个人主页 |
 
-> 更多作品会慢慢长出来：AI 产品拆解集、一个文档问答小助手、一个 Agent 工作流原型……敬请期待。
+后面计划做的东西：一个文档问答的小助手、一个简单的 Agent 工作流原型。做完一个，就在这里补一个。
 
-## 🛠️ 正在积累的技能 Skills I'm Building
+## 正在积累的技能
 
 `AI Product Thinking` · `Prompt Design` · `AI Agents` · `Product Teardown` · `Prototyping` · `GitHub` · `Python (Learning)`
 
-## 📊 我的 GitHub 数据
+## GitHub 数据
 
 <div align="center">
 
@@ -47,16 +46,12 @@
 
 </div>
 
-## 📫 找到我
+## 联系我
 
 - GitHub：[@zhangxuejing20041231-lang](https://github.com/zhangxuejing20041231-lang)
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=120&section=footer" />
-
-**谢谢你来看我 🌸 如果你也在学 AI，欢迎 Follow 我，我们一起从新手村出发！**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=100&section=footer" />
 
 </div>
