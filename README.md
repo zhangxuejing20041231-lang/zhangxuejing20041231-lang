@@ -8,6 +8,8 @@
 
 正在学习成为一名 AI 从业者，这里记录我的学习、产品思考和动手实践。
 
+<p align="center"><a href="https://zhangxuejing.cn">个人网站</a></p>
+
 </div>
 
 ## 关于我
@@ -49,6 +51,7 @@
 ## 联系我
 
 - GitHub：[@zhangxuejing20041231-lang](https://github.com/zhangxuejing20041231-lang)
+- 个人网站：https://zhangxuejing.cn
 
 <div align="center">
 
